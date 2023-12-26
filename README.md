@@ -1,2 +1,2 @@
-# DataEngineering-Machine-Learning-
-Training MachineLearning
+# 포트폴리오를 위한 머신러닝 실습입니다.
+연습만이 답이다
